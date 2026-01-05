@@ -28,7 +28,7 @@ L'écosystème du projet est divisé en plusieurs interfaces distinctes pour une
 ## 📂 Organisation des Fichiers
 Le projet utilise une structure multi-fichiers pour séparer les données du code:
 * **`src/`** : Contient `QuizAuteur.xlsm`, `QuizEleve.xlsm` et `QuizStat.xlsm`.
-* **`resources/`** : Stocke `Questionnaires.xlsx` et `Eleves.xls.
+* **`resources/`** : Stocke `Questionnaires.xlsx` et `Eleves.xls`.
 * **`docs/`** : Contient le rapport technique du projet.
 
 ## 🛠️ Installation
